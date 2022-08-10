@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.6.1)
+  - BulletinBoard (5.0.0)
+  - NMapsMap (3.15.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - BulletinBoard
+  - NMapsMap
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BulletinBoard
+    - NMapsMap
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  BulletinBoard: dba77053c2a7b64953f63073f7534165af2edd21
+  NMapsMap: f151761c088d6516064c59da03ab6503769486e6
+
+PODFILE CHECKSUM: 2d58560e08b9416906c81e9b4403fbc7f5083237
+
+COCOAPODS: 1.11.3
